@@ -5,6 +5,7 @@
                  [compojure "1.1.6"]
                  [ring/ring-devel "1.3.0"]
                  [ring/ring-core "1.3.0"]
+                 [ring/ring-json "0.3.1"]
                  [org.clojure/java.jdbc "0.3.2"]
                  [com.cemerick/friend "0.2.1"]
                  [postgresql "9.3-1101.jdbc4"]
