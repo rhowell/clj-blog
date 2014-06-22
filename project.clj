@@ -8,6 +8,7 @@
                  [org.clojure/java.jdbc "0.3.2"]
                  [com.cemerick/friend "0.2.1"]
                  [postgresql "9.3-1101.jdbc4"]
+                 [korma "0.3.2"]
                  [http-kit "2.1.16"]]
   :plugins [[lein-ring "0.8.11"]]
   :ring {:handler clj-blog.handler/app}
